@@ -1,4 +1,4 @@
-file ini memakai tailwind css serta laravel breeze php versi 8.2.0 laravel 10
+file ini memakai boostrap css serta laravel breeze php versi 8.2.0 laravel 11
 
     clone dulu project nya
     composer install
