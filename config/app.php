@@ -125,6 +125,7 @@ return [
     'providers' => [
     // Other Service Providers
 
+    Illuminate\Validation\ValidationServiceProvider::class,
     Mews\Captcha\CaptchaServiceProvider::class,
 ],
 
